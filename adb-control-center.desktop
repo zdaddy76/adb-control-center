@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ADB Control Center
+Comment=Linux GUI for Android Debug Bridge
+Exec=/home/ghost/adb-gui/run.sh
+Icon=/home/ghost/adb-gui/droid-bot.svg
+Terminal=false
+Categories=Development;Utility;

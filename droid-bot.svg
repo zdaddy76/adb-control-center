@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Droid bot">
+  <defs>
+    <linearGradient id="body" x1="56" y1="28" x2="200" y2="228" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#54d66d"/>
+      <stop offset="1" stop-color="#188a43"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="76" y1="74" x2="180" y2="164" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c1b22"/>
+      <stop offset="1" stop-color="#17323d"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="54" fill="#111820"/>
+  <circle cx="204" cy="52" r="14" fill="#34d399" opacity=".24"/>
+  <circle cx="48" cy="210" r="20" fill="#38bdf8" opacity=".16"/>
+  <path d="M86 57 68 27" stroke="#54d66d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M170 57 188 27" stroke="#54d66d" stroke-width="10" stroke-linecap="round"/>
+  <rect x="58" y="52" width="140" height="146" rx="30" fill="url(#body)"/>
+  <rect x="78" y="82" width="100" height="70" rx="18" fill="url(#screen)"/>
+  <circle cx="106" cy="116" r="9" fill="#a7f3d0"/>
+  <circle cx="150" cy="116" r="9" fill="#a7f3d0"/>
+  <path d="M108 142h40" stroke="#a7f3d0" stroke-width="7" stroke-linecap="round"/>
+  <rect x="38" y="93" width="24" height="74" rx="12" fill="#25b657"/>
+  <rect x="194" y="93" width="24" height="74" rx="12" fill="#25b657"/>
+  <rect x="83" y="194" width="28" height="34" rx="12" fill="#188a43"/>
+  <rect x="145" y="194" width="28" height="34" rx="12" fill="#188a43"/>
+  <path d="M88 170h80" stroke="#0d5f31" stroke-width="8" stroke-linecap="round" opacity=".45"/>
+  <path d="M70 68c22-20 94-20 116 0" stroke="#eafff0" stroke-width="8" stroke-linecap="round" opacity=".3"/>
+</svg>
