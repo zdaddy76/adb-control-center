@@ -13,7 +13,7 @@ cd ~/adb-gui
 ./run.sh
 ```
 
-ADB must be installed and in the path. This machine already has `/bin/adb`.
+ADB must be installed and in the path. 
 
 ## Features
 
