@@ -2,6 +2,10 @@
 
 Linux desktop GUI for Android Debug Bridge.
 
+## License
+
+MIT. See [LICENSE](./LICENSE).
+
 ## Run
 
 ```bash
